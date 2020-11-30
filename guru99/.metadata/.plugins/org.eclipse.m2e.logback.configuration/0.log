@@ -1,0 +1,109 @@
+2020-11-30 05:19:56,578 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-11-30 05:25:56,084 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\DevOps\guru99\com.guru99_newtours\pom.xml
+2020-11-30 05:25:57,173 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.guru99_newtours:com.guru99_newtours:0.0.1-SNAPSHOT @ E:\DevOps\guru99\com.guru99_newtours\pom.xml.
+2020-11-30 05:25:58,234 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.guru99_newtours/src/main/java
+2020-11-30 05:25:58,248 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.guru99_newtours/src/test/java
+2020-11-30 05:25:58,980 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-11-30 05:25:59,757 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:25:59,757 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:25:59,759 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:25:59,760 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:28:00,415 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:28:00,416 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:28:00,418 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:28:00,418 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:28:04,215 [Worker-13: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo_guru99:com.demo_guru99:0.0.1-SNAPSHOT @ E:\DevOps\guru99\com.guru99_newtours\pom.xml.
+2020-11-30 05:28:06,717 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:28:06,718 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:28:06,721 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:28:06,721 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:28:10,382 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:28:10,382 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:28:10,383 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:28:10,384 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:28:42,894 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:28:42,895 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:28:42,896 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:28:42,896 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:29:03,550 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:29:03,564 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:29:03,567 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:29:03,567 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:29:52,206 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo_guru99:com.demo_guru99:0.0.1-SNAPSHOT @ E:\DevOps\guru99\com.guru99_newtours\pom.xml.
+2020-11-30 05:29:52,858 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:29:52,859 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:29:52,861 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:29:52,861 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:29:54,940 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:29:54,944 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:29:54,946 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:29:54,946 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:30:32,807 [Worker-16: Launching Executing clean in E__DevOps_guru99_com.guru99_newtours] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\DevOps\guru99\com.guru99_newtours
+2020-11-30 05:30:32,808 [Worker-16: Launching Executing clean in E__DevOps_guru99_com.guru99_newtours] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-11-30 05:30:35,419 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:30:35,420 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:30:35,421 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:30:35,421 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:30:50,462 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-30 05:30:50,821 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo_guru99:com.demo_guru99:0.0.1-SNAPSHOT @ E:\DevOps\guru99\com.guru99_newtours\pom.xml.
+2020-11-30 05:30:51,493 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.guru99_newtours/src/main/java
+2020-11-30 05:30:51,494 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.guru99_newtours/src/test/java
+2020-11-30 05:30:51,938 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-11-30 05:30:52,643 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:30:52,644 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:30:52,647 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:30:52,647 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:32:27,668 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:32:27,668 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:32:27,672 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:32:27,672 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:33:24,620 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:33:24,620 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:33:24,621 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:33:24,622 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:33:39,109 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:33:39,117 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:33:39,118 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:33:39,118 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:34:16,093 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:34:16,093 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:34:16,094 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:34:16,094 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:37:37,619 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:37:37,619 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:37:37,620 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:37:37,620 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:38:46,793 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-30 05:38:47,183 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo_guru99:com.demo_guru99:0.0.1-SNAPSHOT @ E:\DevOps\guru99\com.guru99_newtours\pom.xml.
+2020-11-30 05:38:47,944 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.guru99_newtours/src/main/java
+2020-11-30 05:38:47,945 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.guru99_newtours/src/test/java
+2020-11-30 05:38:49,259 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-11-30 05:38:50,042 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:38:50,043 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:38:50,045 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:38:50,046 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:39:07,654 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:39:07,654 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:39:07,655 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:39:07,655 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:42:03,652 [Worker-18: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:42:03,653 [Worker-18: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:42:03,654 [Worker-18: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:42:03,654 [Worker-18: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:42:14,259 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-30 05:42:14,618 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo_guru99:com.demo_guru99:0.0.1-SNAPSHOT @ E:\DevOps\guru99\com.guru99_newtours\pom.xml.
+2020-11-30 05:42:15,280 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.guru99_newtours/src/main/java
+2020-11-30 05:42:15,280 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.guru99_newtours/src/test/java
+2020-11-30 05:42:15,762 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-11-30 05:42:16,337 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:42:16,337 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:42:16,340 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:42:16,340 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:42:41,240 [Worker-6: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:42:41,240 [Worker-6: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:42:41,241 [Worker-6: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:42:41,242 [Worker-6: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
+2020-11-30 05:43:07,125 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:43:07,125 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\main\resources
+2020-11-30 05:43:07,127 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-30 05:43:07,127 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\DevOps\guru99\com.guru99_newtours\src\test\resources
